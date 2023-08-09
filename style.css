@@ -1,0 +1,942 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600&family=Lumanosimo&display=swap');
+
+body {
+    font-family: 'Lumanosimo', cursive;
+}
+
+/*--- css  classes started---*/
+.col-md-1 {
+
+    width: 8.33333333%;
+}
+
+
+.col-md-2 {
+
+
+    width: 16.66666667%;
+
+
+}
+
+.col-md-3 {
+
+    width: 25%;
+}
+
+.col-md-4 {
+
+
+    width: 33.33333333%;
+
+
+}
+
+
+.col-md-5 {
+
+
+    width: 41.66666667%;
+
+}
+
+.col-md-6 {
+
+    width: 50%
+}
+
+
+.col-md-7 {
+
+
+
+
+    width: 58.33333333%;
+}
+
+
+.col-md-8 {
+
+
+    width: 66.66666667%;
+
+}
+
+
+
+
+.col-md-9 {
+
+    width: 75%
+}
+
+
+
+.col-md-10 {
+
+
+    width: 83.33333333%;
+
+}
+
+
+
+
+.col-md-11 {
+
+
+    width: 91.66666667%;
+
+}
+
+
+
+.col-md-12 {
+
+
+    width: 100%;
+
+
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.padding-around {
+
+    padding-left: 30px;
+    padding-right: 30px;
+
+}
+
+.text-center {
+
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
+.p-cards {
+
+    padding: 20px 45px;
+
+}
+
+.home-page {
+
+    color: white;
+}
+
+/*--- css  classes ended---*/
+
+/*--- head  classes started---*/
+
+.hero-btn-1 {
+
+
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.text-color {
+    text-decoration: none;
+    color: white;
+
+}
+
+.head-background {
+
+
+    background-color: darkorchid;
+
+
+}
+
+.logo {
+
+    text-align: start;
+    padding-top: 3px;
+
+}
+
+.nav-logo li {
+
+    list-style-type: none;
+
+    display: inline-block;
+    font-family: 'Courier New', Courier, monospace;
+
+
+}
+
+.nav-list {
+
+    text-align: end;
+    padding-top: 10px;
+}
+
+.nav-list li {
+    font-family: Arial, Helvetica, sans-serif;
+
+    padding-right: 40px;
+
+}
+
+
+/*--- home classes started---*/
+.home-head-h {
+    color: white;
+    padding-left: 40px;
+
+}
+
+
+.home-head-row {
+
+    margin-top: 20px;
+    background-color: darkorchid;
+
+}
+
+.home-main-h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+    text-align: center;
+
+    padding-top: 150px;
+}
+
+
+.home-main-p1 {
+
+    padding-right: 40px;
+
+}
+
+
+/*--- home classes ended---*/
+
+
+/*--- about classes started---*/
+
+
+
+.about-head-row {
+    margin-top: 30px;
+    background-color: darkorchid;
+
+}
+
+.about-h1 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    font-weight: 300;
+    text-align: center;
+    position: relative;
+    left: 425px;
+}
+
+.about-main-h1 {
+    padding-left: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+
+
+}
+
+.about-main-p1 {
+
+
+    padding-left: 40px;
+
+
+}
+
+.about-main-img1 {
+
+    width: 100%;
+
+
+
+}
+
+.about-main {
+    margin-top: 30px;
+
+
+}
+
+.about-main-row {
+
+
+
+
+    background-color: gray;
+}
+
+/*--- about classes ended---*/
+
+
+/*--- location classes started---*/
+.location-head-row {
+    margin-top: 20px;
+    background-color: darkorchid;
+
+}
+
+.location-head-h {
+    padding-left: 425px;
+    color: white;
+
+}
+
+
+
+
+
+
+/*--- location  classes ended---*/
+/*--- contact  classes started---*/
+
+.contact-head-row {
+
+    margin-bottom: 30px;
+
+    margin-top: 30px;
+}
+
+
+.contact-row-list {
+
+    list-style-type: none;
+
+}
+
+.contact-row-list li {
+
+
+    display: inline-block;
+
+}
+
+.contact-head-h {
+    padding-left: 425px;
+    padding-top: 30px;
+    color: white;
+
+    text-align: center;
+    font-size: xx-large;
+    color: white;
+
+    font-weight: 600;
+}
+
+
+.contact-map {
+
+
+    padding-left: 40px;
+
+}
+
+.contact-form {
+    margin-left: 200px;
+
+    margin-top: 100px
+}
+
+.contact-btn {
+
+
+    padding-left: 20px;
+    padding-right: 20px;
+    position: relative;
+    left: 100px;
+    top: 20px;
+    border-radius: 20px;
+}
+
+
+
+/*--- contacts  classes ended---*/
+
+/*--- head  classes ended---*/
+
+
+
+
+
+
+
+/*--- hero  classes started---*/
+
+
+
+.hero-h1 {
+
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    text-align: start;
+    padding-left: 40px;
+    padding-top: 50px;
+
+
+}
+
+.hero-p1 {
+
+
+    padding-left: 40px;
+    color: white;
+
+}
+
+
+.hero-btn-1 {
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: red;
+    color: white;
+    position: relative;
+    left: 40px;
+
+}
+
+.hero-btn-1:hover {
+    background-color: yellow;
+    color: black;
+}
+
+/*--- support  classes started---*/
+
+
+
+.support-h5,
+.support-h3 {
+
+    padding-left: 40px;
+
+
+
+
+}
+
+
+
+.support-p {
+
+
+    text-align: end;
+
+    padding-right: 40px;
+
+
+}
+
+
+
+.support-row1 {
+
+
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+
+}
+
+
+
+/*--- support  classes ended---*/
+
+
+
+
+
+
+/*--- card classes started---*/
+
+
+.card-1,
+.card-2,
+.card-3 {}
+
+/*--- card classes started---*/
+
+
+
+
+/*--- poster classes started---*/
+
+.poster-row {
+
+
+    margin-top: 60px;
+
+
+
+}
+
+.poster-h,
+.poster-p {
+
+
+    text-align: center;
+
+
+
+
+
+}
+
+.poster-h {
+    padding-top: 190px;
+    font-size: xx-large
+}
+
+
+
+.poster-p {}
+
+.poster-btn {
+
+    position: relative;
+    left: 225px;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: white;
+    border-radius: 20px;
+
+}
+
+
+.poster-btn:hover {
+
+    background-color: yellow;
+    color: black;
+
+}
+
+/*--- poster classes ended---*/
+
+
+
+
+
+
+/*--- footer classes started---*/
+
+.footer-row {
+    margin-top: 30px;
+    background-color: darkorchid;
+    color: white;
+
+}
+
+.footer-img {
+    position: relative;
+    top: 50px;
+    padding-left: 40px
+}
+
+.footer-h {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 50px;
+    padding-left: 40px;
+
+
+}
+
+
+
+.footer-icon {
+
+    list-style-type: none;
+
+
+}
+
+
+.footer-icon li {
+
+
+    display: inline-block;
+
+
+    text-align: end;
+    padding-left: 20px;
+
+}
+
+.footer-h1 {
+
+    padding-left: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+
+.footer-ul {
+
+
+    list-style-type: none;
+
+}
+
+.footer-ul li {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 10px;
+
+}
+
+.footer-icon-list {
+    list-style-type: none;
+    position: relative;
+    right: 40px;
+}
+
+.footer-icon-list li {
+    display: inline-block;
+
+}
+
+
+/*--- footer classes ended---*/
+
+.check {
+    display: none;
+
+
+}
+
+
+
+
+
+
+@media (max-width:412px) {
+    .hero-btn-1 {}
+
+    .support-p {
+        font-size: 8px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media  (max-device-width: 1024px) {
+
+
+    .poster-h {
+        margin-top: -120px;
+        
+        font-size: xx-large;
+    }
+
+
+
+    .poster-p {
+
+       
+        padding-right: 40px;
+
+    }
+
+    .poster-btn {
+
+
+        position: relative;
+        left: 200px;
+
+
+    }
+
+    .contact-column {
+        margin-left: -40px;
+    }
+
+
+
+
+    .check {
+        display: block;
+        color: white;
+        size: 20px;
+        float: right;
+        padding-right: 40px;
+        padding-top: 20px;
+
+    }
+
+
+
+    .nav-list {
+
+        display: none;
+    }
+
+
+}
+
+@media  (max-device-width: 600px) {
+    .col-md-1 {
+
+        width: 100%;
+    }
+
+
+    .col-md-2 {
+
+
+        width: 100%;
+
+
+    }
+
+    .col-md-3 {
+
+        width: 100%;
+    }
+
+    .col-md-4 {
+
+
+        width: 100%;
+
+    }
+
+
+    .col-md-5 {
+
+        width: 100%;
+    }
+
+    .col-md-6 {
+
+        width: 100%;
+
+    }
+
+
+    .col-md-7 {
+
+
+
+
+        width: 100%;
+    }
+
+
+    .col-md-8 {
+
+
+        width: 100%;
+
+    }
+
+
+
+
+    .col-md-9 {
+
+        width: 100%;
+
+
+    }
+
+
+
+    .col-md-10 {
+
+
+        width: 100%;
+    }
+
+
+
+
+    .col-md-11 {
+
+
+        width: 100%;
+
+    }
+
+
+
+    .col-md-12 {
+
+
+        width: 100%;
+
+
+    }
+
+    .footer-h {
+
+
+        font-size: small;
+
+    }
+
+
+    .poster-p {
+        font-size:xx-small;
+        padding-left: 200px;
+    }
+    .poster-btn {
+
+
+        position: relative;
+        left: 200px;
+
+
+    }
+
+
+
+    .hero-p1 {
+        font-size: 9px;
+    }
+
+    .support-p {
+        font-size: small;
+        padding-left: 40px;
+    }
+
+
+    .check {
+        display: block;
+        color: white;
+        size: 20px;
+        float: right;
+        padding-right: 20px;
+       
+        position:relative;
+        bottom: 70px;
+    }
+
+
+    .about-h1 {
+        color: white;
+        text-align: center;
+        position: relative;
+        left: 60px;
+    }
+
+    .about-main-h1 {
+        font-size: x-large;
+
+    }
+
+    .about-main-p1 {
+
+        font-size: x-small;
+        padding-right: 40px;
+    }
+
+    
+
+
+    .about-us-menu {
+        margin-top: -70px;
+    }
+
+    .location-head-h {
+        color: white;
+        text-align: center;
+        position: relative;
+        right: 250px;
+        top: -50px;
+        font-size: xx-large;
+        font-family: auto;
+    }
+
+    .footer-links {
+        margin-left: -30px;
+        padding-left: 30px;
+    }
+
+    .location-menu {
+        margin-top: -70px;
+    }
+
+    .contact-padding {
+
+        padding-bottom: 30px;
+    }
+
+    .contact-head-h {
+
+        position: relative;
+        right: 300px;
+        top: -70px;
+    }
+
+    .contact-map {
+        width: auto;
+        height: 300px;
+    }
+
+    .contact-table {
+        position: relative;
+        right: 90px;
+        line-height: 3;
+    }
+
+    .contact-menu {
+
+        margin-top: -70px;
+
+    }
+
+    .contact-column {
+        margin-left: -40px;
+        padding-left: 30px;
+    }
+
+
+    .poster-h {
+        padding-left: 200px;
+        font-size: small;
+    }
+    .nav-list {
+
+        display: none;
+    }
+}
